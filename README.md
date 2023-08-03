@@ -1,15 +1,14 @@
 # React_Food_Delivery_App
-## Preview  Link : [Personal-Portfolio](https://yjzrn9.csb.app/)
+## Preview  Link : 
 <hr/>
 
 # Install
->
-  git clone https://github.com/SPRHackz/React_Food_Delivery.git
+  ### `git clone https://github.com/SPRHackz/React_Food_Delivery.git`
+  
+  ###  `npm install`
+  
+  ### `npm start`
 
-  npm install
-
-  npm start
->
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
